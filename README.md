@@ -1,4 +1,4 @@
-<h1 align="center">📖 Simple HTTP Proxy</h1 >
+<h1 align="center">⛓️ Simple HTTP Proxy</h1 >
 
 <p align="center">
   <strong>Simple HTTP Proxy</strong>
